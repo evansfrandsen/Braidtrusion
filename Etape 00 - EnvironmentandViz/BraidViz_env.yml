@@ -193,4 +193,3 @@ dependencies:
       - python-utils==3.9.1
       - rich==13.9.4
       - scipy==1.15.0
-prefix: C:\Users\evfra\.conda\envs\Braid_env

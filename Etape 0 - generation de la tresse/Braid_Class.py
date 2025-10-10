@@ -800,7 +800,7 @@ AYBY = SYBY/RpYBY
 AYAX = SYAX/RpYAX 
 InitialYarnAspectRatio = 4
 
-N_Layers = 2 #Number of fiber layers in a Yarn, 0 = one fiber per Yarn
+N_Layers = 1 #Number of fiber layers in a Yarn, 0 = one fiber per Yarn
 N_Fiber_per_Yarn = 1
 for i in range(N_Layers):
     NFiberperLayer = 6*(i+1)
